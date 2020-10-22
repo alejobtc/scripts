@@ -1,5 +1,8 @@
 #! /bin/bash
 
+Quedara mejor en gist??
+https://docs.github.com/es/free-pro-team@latest/github/writing-on-github/creating-gists??
+
 jobUrl=$1 #https://<jenkins-Job-URL>/
 searchUser=$2 #<short-username>
 #lastBuild=$(curl -s $jobUrl/api/json\?pretty\=true | jq '.lastBuild.number')
